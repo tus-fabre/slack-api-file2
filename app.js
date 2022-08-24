@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 6b - ファイルをSlackにアップロードする
+ *  Lesson File 2 - ファイルをSlackにアップロードする
  * 
  * [NOTE]
  */
